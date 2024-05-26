@@ -11,44 +11,41 @@
 
 ## Monthly updates
 
-##### 2023
+##### 2024
 
-- [June](https://blog.ensembleui.com/ensemble-update-june-2023/)
-  - Connect to OAuth ️🔌👌
-  - Create custom bottom sheets ⬆️
-  - Edit your code in a JS editor 🧑‍💻
-  - Search within the widget tree 🔍
-  - and many more enhancements
-    
-- [May](https://blog.ensembleui.com/ensemble-update-may-2023/)
-  - Enhanced Map widget for a seamless UX 🗺️
-  - Customize the bottom nav bar to your heart's content 😍
-  - Conditional widget is here 🔀
-  - New demo: Sample screens with complex layouts 👌
-  - and many more enhancements
- 
-- [April](https://blog.ensembleui.com/ensemble-update-april-2023/)
-  - Connect to crypto wallets 🪙
-  - Reusable custom widgets are here 💎
-  - Include Google Fonts in your theme 🔤
-  - New demo: Weather app ⛅
-  - and many more enhancements
+- [April](https://blog.ensembleui.com/ensemble-update-april-2024/)
+  - Visual Editing Made Easy 🌟
+  - Biometric authentication 🛡️
+  - Search across your app code 🔍
+  - onResume event 🔄
+  - Personalized Draggable Footer 👆
+  - QR Code Shape Control 🎨
+  - And a range of other features 🚀
 
-- [March](https://blog.ensembleui.com/ensemble-update-mar-2023/)
-  - Say cheese, the camera is here 📷
-  - View history of your screen definition and see the diffs 📅
-  - Manage collaborators more easily 👩‍💻
-  - and many more enhancements
+- [March](https://blog.ensembleui.com/ensemble-update-march-2024/)
+  - Managing Assets Made Easy 📸
+  - Embrace Multilingual Translations 🌍
+  - Enhanced Docs: Simplified search and navigation 📚
+  - Ensemble Go and Preview App: A Complete Redesign! 🎨
+  - And a range of other features 🚀
+
   
-- [February](https://blog.ensembleui.com/ensemble-product-update-feb-2023/)
-  - Create complex layouts with smooth scrolling
-  - Ready, set, uploadFiles
-  - Browse your screen definitions using the new widget tree
-  - Updated demo app: Ensemble Kitchen Sink
-  - and lots more improvements to error handling, existing widgets, menu, and docs
+- [February](https://blog.ensembleui.com/ensemble-update-february-2024/)
+  - Advanced Styling inspired by CSS 🎨
+  - Precision with executeConditionalAction 🎯
+  - Mastering Flexibility: Say Hello to FlexRow and FlexColumn 💪
+  - Enhanced Scanning: QRCodeScanner Widget 📷
+  - ActionGroup: Streamlining Parallel Actions ↔️
+  - Leveraging Dispatch Event 🔓
+  - And a range of other features 🚀
 
-- [January](https://blog.ensembleui.com/ensemble-update-jan-2023/)
-  - Preview your apps on your device
-  - Enable autocomplete on dropdowns
-  - App spotlight: Mastercard Open Banking demo app
-  - New demo app: Doctor appointment booking app
+- [January](https://blog.ensembleui.com/ensemble-update-january-2024/)
+  - Publish Your App in Studio! 💥💥💥
+  - Introducing Scripts 🛠️
+  - Dynamic Tri-State Switch Configuration 🔄
+  - Real-Time Validation ✅
+  - Pinch-to-Zoom Image Interaction 🌐
+  - App Description 📝
+  - And a range of other features 🚀
+ 
+- [Previous updates](https://blog.ensembleui.com/)
